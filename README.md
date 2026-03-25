@@ -3,6 +3,7 @@
 
 Esse projeto foi criado inspirado no módulo de pós graducao, no qual a partir de uma convrsar com o usuario via LangChain, nós conseguimos capturar seu estilo musical favorito, preferencias, informacoes pessoais pra recomendacao de músicas. Conseguimos também recuperar historico daquele usuario, e comprimir informacaoes antigas, como um resumo de tudo que foi conversado.
 
+<img width="1233" height="894" alt="image" src="https://github.com/user-attachments/assets/ea88a381-eaa1-4886-82aa-41c917cdf182" />
 
 
 
